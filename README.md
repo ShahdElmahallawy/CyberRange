@@ -22,43 +22,16 @@ This cyber range covers the following vulnerabilities:
 - Node.js and npm (or your preferred node package manager such as pnpm, yarn, or bun)
 
 ### Backend Setup
+• Navigate to the frontend directory
+• run the following command: go run .
 
-1. Ensure Go is installed:
-   ```bash
-   go version
-If Go is properly installed, you should see the version number in the output.
+### Backend Setup
+• Navigate to the frontend directory
+• Run the following command: npm install
+• Then run the following command: npm run dev
+• Now the frontend should be running and accessible through port 3000.
 
-Navigate to the Backend directory:
-
-bash
-Copy code
-cd path/to/backend
-Start the backend server:
-
-bash
-Copy code
-go run .
-Note: We recommend using Air for automatic reloading during development.
-
-Frontend Setup
-Navigate to the frontend directory:
-
-bash
-Copy code
-cd path/to/frontend
-Install dependencies:
-
-bash
-Copy code
-npm install
-Start the frontend development server:
-
-bash
-Copy code
-npm run dev
-The frontend should now be accessible at http://localhost:3000.
-
-Contributors
+## Contributors
 Freddy Amgad
 Michael Reda
 
