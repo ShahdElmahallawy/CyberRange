@@ -22,17 +22,17 @@ This cyber range covers the following vulnerabilities:
 - Node.js and npm (or your preferred node package manager such as pnpm, yarn, or bun)
 
 ### Backend Setup
-• Navigate to the frontend directory
-• run the following command: go run .
+• **Navigate to the frontend directory
+• **run the following command: go run .
 
 ### Backend Setup
-• Navigate to the frontend directory
-• Run the following command: npm install
-• Then run the following command: npm run dev
-• Now the frontend should be running and accessible through port 3000.
+• **Navigate to the frontend directory
+• **Run the following command: npm install
+• **Then run the following command: npm run dev
+• **Now the frontend should be running and accessible through port 3000.
 
 ## Contributors
-Freddy Amgad
-Michael Reda
+**Freddy Amgad
+**Michael Reda
 
 
